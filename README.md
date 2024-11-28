@@ -1,7 +1,4 @@
 
-
-
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -22,8 +19,5 @@
         <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="50" height="50"/> 
             <img src="https://www.svgrepo.com/show/375549/batch.svg" alt="batch" width="50" height="50"/> 
                <img src="https://www.svgrepo.com/show/353478/bash-icon.svg" alt="bash" width="50" height="50"/> 
-                  <img src="https://www.svgrepo.com/show/452129/vs-code.svg" alt="vscode" width="50" height="50"/> 
-
-
 
 </p>
