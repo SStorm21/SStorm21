@@ -16,5 +16,5 @@
 <p align="left"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> 
       <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="c++" width="50" height="50"/> 
-
+        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/rust-programming-language-icon.svg" alt="rust" width="50" height="50"/> 
 </p>
