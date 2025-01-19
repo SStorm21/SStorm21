@@ -18,3 +18,5 @@
       <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="c++" width="50" height="50"/> 
         <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/rust-programming-language-icon.svg" alt="rust" width="50" height="50"/> 
 </p>
+
+[![image](https://github.com/user-attachments/assets/356c2dce-d6c9-43a0-8475-fbfc90790711)](https://discord.gg/7eNDa6Ge)
