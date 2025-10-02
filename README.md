@@ -12,3 +12,7 @@
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
+
+### ⚠️ Responsible Use Notice
+#
+Materials on this profile are intended for lawful, defensive, and educational purposes only. Do not use, modify, distribute, or deploy any content here to commit unauthorized access, harm, or other malicious activity. Any misuse is strictly prohibited and may result in legal action.
