@@ -19,3 +19,7 @@ Materials on this profile are intended for lawful, defensive, and educational pu
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
+
+# 💬 contact
+* telegram ➡️ SStorm2121
+* signal ➡️ p3hv.24
