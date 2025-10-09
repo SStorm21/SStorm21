@@ -23,4 +23,3 @@ Materials on this profile are intended for lawful, defensive, and educational pu
 # 💬 contact
 * telegram ➡️ SStorm2121 
 * signal ➡️ p3hv.24
-* telegram channel : https://t.me/SSStorm21
