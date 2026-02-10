@@ -13,3 +13,11 @@
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
+
+### 📊 GitHub Stats
+
+![Toasters Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SStorm21&theme=monokai)
+![Toasters Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SStorm21&theme=monokai)
+![Toasters Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SStorm21&theme=monokai)
+
+from @FuckingToasters btw.
