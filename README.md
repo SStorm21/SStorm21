@@ -14,7 +14,7 @@
   />
 </picture>
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 ![Toasters Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SStorm21&theme=monokai)
 ![Toasters Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SStorm21&theme=monokai)
