@@ -20,3 +20,5 @@ Discord: .6_g
 ![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-FF6100?style=for-the-badge&logo=airplay&logoColor=white)
 ![Security](https://img.shields.io/badge/Network_Hacking-black?style=for-the-badge&logo=hackthebox&logoColor=white)
 ![Malware Dev](https://img.shields.io/badge/Malware_Dev-CC0000?style=for-the-badge&logo=ghost&logoColor=white)
+
+![Disclaimer](https://img.shields.io/badge/Status-Educational_Purpose_Only-red?style=for-the-badge&logo=alert)
