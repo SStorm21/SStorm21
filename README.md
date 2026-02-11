@@ -19,3 +19,4 @@ Discord: .6_g
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-FF6100?style=for-the-badge&logo=airplay&logoColor=white)
 ![Security](https://img.shields.io/badge/Network_Hacking-black?style=for-the-badge&logo=hackthebox&logoColor=white)
+![Malware Dev](https://img.shields.io/badge/Malware_Dev-CC0000?style=for-the-badge&logo=ghost&logoColor=white)
