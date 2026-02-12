@@ -22,4 +22,8 @@ Discord: .6_g
 ![Malware Dev](https://img.shields.io/badge/Malware_Dev-CC0000?style=for-the-badge&logo=ghost&logoColor=white)
 ![Disclaimer](https://img.shields.io/badge/Status-Educational_Purpose_Only-red?style=for-the-badge&logo=alert) 
 
-![Total Stars](https://img.shields.io/github/stars/SStorm21?style=github_dark&color=gold&label=Total%20Stars)
+![Total Stars](https://img.shields.io/github/stars/SStorm21?style=github_dark&color=gold&label=Total%20Stars) ![Total Repos](https://img.shields.io/badge/Total%20Repositories-50-blue?style=github-dark&logo=github)
+
+![SStorm21 Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SStorm21&theme=github-dark) 
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&width=435&lines=Python+Developer;Security+Enthusiast;Automation+Expert)
