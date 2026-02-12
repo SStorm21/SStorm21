@@ -22,3 +22,5 @@ Discord: .6_g
 ![Malware Dev](https://img.shields.io/badge/Malware_Dev-CC0000?style=for-the-badge&logo=ghost&logoColor=white)
 
 ![Disclaimer](https://img.shields.io/badge/Status-Educational_Purpose_Only-red?style=for-the-badge&logo=alert)
+
+![Total Stars](https://img.shields.io/github/stars/SStorm21?style=github_dark&color=gold&label=Total%20Stars)
