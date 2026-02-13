@@ -17,8 +17,4 @@
 
 ![Total Stars](https://img.shields.io/github/stars/SStorm21?style=github_dark&color=gold&label=Total%20Stars) ![Total Repos](https://img.shields.io/badge/Total%20Repositories-50-blue?style=github-dark&logo=github)
 
-
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&width=435&lines=Python+Developer;Network+Enthusiast;malware+developer)
-
-![SStorm21 Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SStorm21&theme=github_dark)
-
