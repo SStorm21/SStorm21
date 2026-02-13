@@ -1,11 +1,5 @@
 ![SStorm21 Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SStorm21&theme=github-dark) 
 
-```
-Discord: .6_g
-```
-
----
-
 # 🛠️ Toolkit & Languages
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
